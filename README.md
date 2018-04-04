@@ -1,2 +1,0 @@
-# noemirosales
-my website
